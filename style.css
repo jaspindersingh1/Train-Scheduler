@@ -5,8 +5,8 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url(https://cdn.pixabay.com/photo/2016/11/29/07/57/train-station-1868256_1280.jpg);
-    /* https://cdn.pixabay.com/photo/2018/02/21/10/16/train-3169964_1280.jpg */
+    background-image: url(train.jpg);
+    background-repeat: round;
 }
 
 h1 {
